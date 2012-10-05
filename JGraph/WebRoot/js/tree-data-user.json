@@ -1,0 +1,34 @@
+[{
+    text:'各位爷',
+    expanded: true,
+    children:[{
+        text:'刘总',
+        id:'1',
+        leaf:true
+    },{
+        text:'相公',
+        id:'2',
+        leaf:true
+    },{
+        text:'金老板',
+        id:'3',
+        leaf:true
+    },{
+        text:'辉总',
+        id:'4',
+        leaf:true
+    },{
+        text:'李进',
+        id:'5',
+        leaf:true
+    },{
+        text:'欢欢',
+        id:'5',
+        leaf:true
+    },{
+        text:'范公子',
+        id:'6',
+        leaf:true
+    }
+    ]
+}]

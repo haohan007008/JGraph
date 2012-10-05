@@ -1,0 +1,26 @@
+[{
+    text:'当前帐期',
+    expanded: true,
+    children:[{
+        text:'201101',
+        id:'201101',
+        leaf:true
+    }]
+},{
+    text:'历史帐期',
+    expanded: true,
+    children:[{
+        text:'201012',
+        id:'201012',
+        leaf:true
+    },{
+        text:'201011',
+        id:'201011',
+        leaf:true
+    },{
+        text:'201010',
+        id:'201010',
+        leaf:true
+    }
+    ]
+}]
